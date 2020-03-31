@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cursos>
+
+  <curso>
+    <id>1</id>
+    <descricao>Excel </descricao>
+    <preco>15</preco>
+
+    <id>2</id>
+    <descricao> Jason </descricao>
+    <preco>20</preco>
+
+    <id>3</id>
+    <descricao> Jaquery</descricao>
+    <preco>30</preco>
+
+  </curso>
+
+</Cursos>
